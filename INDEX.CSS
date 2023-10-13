@@ -1,0 +1,31 @@
+.JO
+{color: rgb(12, 240, 80);
+    margin-top: 0px;
+
+}
+
+.FASH{
+    font-weight: bolder;
+    color: aliceblue;
+    word-spacing: 7PX;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-indent: 50px;
+}
+.GIC{
+    background-color: rgba(51, 21, 21, 0.493);
+    height: 450PX;
+    margin-top: 10px;
+    border-radius: 50px;
+}
+.LST{
+    word-spacing: 9px;
+    font-weight: bolder;
+    font-style: oblique;
+}
+.abt{
+    padding-top: 5px;
+    font-weight: bolder;
+}
+.wht{
+    padding-bottom: 5px;
+}
